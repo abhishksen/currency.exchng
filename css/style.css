@@ -28,15 +28,16 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
-    background: #905fc4;
+/*     min-height: 100vh; */
+    margin-top: 50px;
+    background: #eee;
 }
 
 .wrapper{
     width: 360px;
     padding: 20px;
     border-radius: 5px;
-    background:#d5b8ff
+    background:#eee;
 }
 
 .wrapper header{
